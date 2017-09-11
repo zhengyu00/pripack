@@ -1,0 +1,15 @@
+{
+    "name": "zy/pripack",
+    "authors": [
+        {
+            "name": "",
+            "email": ""
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Pripack\\": "src/"
+        }
+    }
+}
