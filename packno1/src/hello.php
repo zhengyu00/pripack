@@ -6,6 +6,6 @@ class Hello
 {
    public static function world()
    {
-       return 'Hello World!';
+       return 'inner- Hello World!';
    }
 }
